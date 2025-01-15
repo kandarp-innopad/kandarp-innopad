@@ -72,7 +72,7 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 
 📊 GitHub Analytics Markdown with URLs
 
-https://komarev.com/ghpvc/?username=kandarp-petnotify&color=brightgreen
+![Profile Views](https://komarev.com/ghpvc/?username=kandarp-innopad&color=brightgreen)
 
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandarpbhatt786/)
