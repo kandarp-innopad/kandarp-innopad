@@ -68,9 +68,6 @@
 [![Cursor](https://img.shields.io/badge/-Cursor-0088CC?logo=cursor&logoColor=white)](https://www.cursor.so/)
 [![Codeium](https://img.shields.io/badge/-Codeium-FFD700?logo=codeium&logoColor=black)](https://www.codeium.com/)
 
-
-
-
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandarpbhatt786/)
 
