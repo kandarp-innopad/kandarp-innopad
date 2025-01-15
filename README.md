@@ -70,6 +70,10 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 [![Cursor](https://img.shields.io/badge/-Cursor-0088CC?logo=cursor&logoColor=white)](https://www.cursor.so/)
 [![Codeium](https://img.shields.io/badge/-Codeium-FFD700?logo=codeium&logoColor=black)](https://www.codeium.com/)
 
+📊 GitHub Analytics Markdown with URLs
+
+https://komarev.com/ghpvc/?username=kandarp-petnotify&color=brightgreen
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandarpbhatt786/)
 
