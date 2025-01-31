@@ -74,6 +74,9 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kandarp-innopad&color=brightgreen)
 
+<img src="https://bypawjdoagkzlcnjhczt.functions.supabase.co/track-visit?username=kandarp-innopad" width="0" height="0" />
+
+
 ## Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kandarpbhatt786/)
 
