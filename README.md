@@ -4,7 +4,7 @@
 I specialize in helping startups and SMEs transform their ideas and business processes into automated software, web, and mobile applications. 
 
 - 🔭 I'm currently supporting **Preferred Travel Group** as **Product Management Consultant**
-- 🔭 I’m currently working at **[Innopad Solutions Inc](https://innopadsolutions.com/)** as **Full Stack Developer & PMO Director**
+- 🔭 I’m currently working at **[Innopad Solutions Inc](https://innopadsolutions.com/)** as **Director of Product & Delivery**
 - 🌱 I’m learning **AI Integrations and AI Web and Mobile App Development using Python, LLM, ML**
 - 👯 I’m looking to collaborate on **startups and SME's who wants to convert their ideas and business profiles into automated digital solutions.**
 - 🤔 I’m looking for help with **LLM and ML Integrations for Agent Development.**
