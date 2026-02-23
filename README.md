@@ -8,7 +8,7 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 - 🌱 I’m learning **AI Integrations and AI Web and Mobile App Development using Python, LLM, ML**
 - 👯 I’m looking to collaborate on **startups and SME's who wants to convert their ideas and business profiles into automated digital solutions.**
 - 🤔 I’m looking for help with **LLM and ML Integrations for Agent Development.**
-- 💬 Ask me about **Project Management, Technical Project Management, MVP Development, React, Node, Express, Next.js, AWS, Azure, Custom .NET Based Web, Software and Mobile App Development**
+- 💬 Ask me about **Product Management, Product Life Cycle, Backlog Grooming, Product Roadmap, Technical Project/Product Management, MVP Development, React, Node, Express, Next.js, AWS, Azure, Custom .NET Based Web, Software and Mobile App Development**
 - 📫 How to reach me: **kbhatt@innopadsolutions.com**
 
 ## Technologies & Tools
