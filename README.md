@@ -69,7 +69,6 @@ I specialize in helping startups and SMEs transform their ideas and business pro
 
 [![GitHub Copilot](https://img.shields.io/badge/-GitHub%20Copilot-000000?logo=github&logoColor=white)](https://github.com/features/copilot)
 [![Cursor](https://img.shields.io/badge/-Cursor-0088CC?logo=cursor&logoColor=white)](https://www.cursor.so/)
-[![Codeium](https://img.shields.io/badge/-Codeium-FFD700?logo=codeium&logoColor=black)](https://www.codeium.com/)
 
 📊 GitHub Analytics Markdown with URLs
 
